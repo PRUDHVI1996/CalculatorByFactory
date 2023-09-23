@@ -1,0 +1,9 @@
+
+function execution starts from main
+have written the factory class in src/Factory
+have written models of calculator and operations in src/Models
+
+input string of operations
+"5+6-1*10/10"
+
+currently not saving pervious calculations need to implement that
